@@ -55,24 +55,25 @@
 
 **/loginsuccess** method=POST
  Takes email and password and also do JWT authentication.
-
-![](RackMultipart20211212-4-15q44om_html_8648364dea4df585.png)
+ 
+![Screenshot from 2021-12-13 04-23-07](https://user-images.githubusercontent.com/55187704/145733944-daa6e8b2-4a14-4d3b-a404-e2139c0f0a7d.png)
 
 **/registrationsuccess** method=POST
 
 Takes name, email and password and store data to database.
 
-![](RackMultipart20211212-4-15q44om_html_7fa55dbe782995cb.png)
+![Screenshot from 2021-12-13 04-23-22](https://user-images.githubusercontent.com/55187704/145733959-ce9b4b61-b034-49ac-984d-1ccaca19b43d.png)
 
 **/user** method=GET
 
 Send all registered users List to frontend.
- ![](RackMultipart20211212-4-15q44om_html_d8e8ede4c62fd046.png)
+ 
+![Screenshot from 2021-12-13 04-23-34](https://user-images.githubusercontent.com/55187704/145733967-49e426ab-6708-4ba5-96a1-7d20e61eb18e.png)
 
 **/group** namespace used for group chat
  &#39;Message&#39; event listen request from client and broadcast it to others.
 
-![](RackMultipart20211212-4-15q44om_html_9cd11eb5d3575add.png)
+![Screenshot from 2021-12-13 04-23-51](https://user-images.githubusercontent.com/55187704/145733974-60384a8f-6661-4a0a-806d-7ad97ca21358.png)
 
 **/private** namespace used for personal chat
 
@@ -80,11 +81,12 @@ Send all registered users List to frontend.
 
 &#39;Private\_message&#39; event listen message and emit message to particular user session\_id.
 
-![](RackMultipart20211212-4-15q44om_html_c59c79551450cef3.png)
+![Screenshot from 2021-12-13 04-24-11](https://user-images.githubusercontent.com/55187704/145733910-b50df772-caa4-47c3-85a6-319abcabe11e.png)
 
-1. **For Frontend \&lt;Route\&gt; and \&lt;Switch\&gt; used from React-router-dom for making various routes.**
+1. **For Frontend <Route> and <Switch> used from React-router-dom for making various routes.**
 
-![](RackMultipart20211212-4-15q44om_html_5733b067d0fe2cf5.png)
+![Screenshot from 2021-12-13 04-39-25](https://user-images.githubusercontent.com/55187704/145733892-30646fa1-d0f0-4a10-904c-47e18509e608.png)
+
 
 **SCREENSHOTS of working project**
 
