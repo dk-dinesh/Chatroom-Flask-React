@@ -83,7 +83,7 @@ Send all registered users List to frontend.
 
 ![Screenshot from 2021-12-13 04-24-11](https://user-images.githubusercontent.com/55187704/145733910-b50df772-caa4-47c3-85a6-319abcabe11e.png)
 
-1. **For Frontend <Route> and <Switch> used from React-router-dom for making various routes.**
+1. **For Frontend Route and Switch used from React-router-dom for making various routes.**
 
 ![Screenshot from 2021-12-13 04-39-25](https://user-images.githubusercontent.com/55187704/145733892-30646fa1-d0f0-4a10-904c-47e18509e608.png)
 
